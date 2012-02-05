@@ -1,4 +1,4 @@
 #Caution:
 This is a work in progress!
 
-Click [here](http://jfrolich.github.com/simple-markdown-editor/) to see it working
+Click [here](http:/maydogan.github.com/simple-markdown-editor/) to see it working
