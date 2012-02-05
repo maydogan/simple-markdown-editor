@@ -1,13 +1,14 @@
 #facebox {
   position: absolute;
   top: 0;
-  left: 0;
+  left: 100;
   z-index: 100;
-  text-align: left;
+  color: #000; 
+  text-align: top;
 }
 
 
-#facebox .popup{
+#facebox .popup{	
   position:relative;
   border:3px solid rgba(0,0,0,0);
   -webkit-border-radius:5px;
@@ -75,6 +76,6 @@
 }
 
 .facebox_overlayBG {
-  background-color: #000;
+  background-color: #707070;
   z-index: 99;
 }

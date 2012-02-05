@@ -8,6 +8,11 @@ body, html {
   margin: 0;
   padding: 0;
 }
+h2{
+margin-left :500px;
+color: #282828;
+}
+
 fieldset {
   border: 0;
   margin: 0;
@@ -42,10 +47,10 @@ fieldset {
   float: left;
 }
 #markdown-editor-dialog input {
-  border: 1px solid #DDD;
+  border: 2px solid #DDD;
   display: block;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 1.2em;
+  font-size: 1.5em;
   line-height: 1.6em;
   margin: 0.3em 0px 0px;
   padding: 0.3em 0.5em;
